@@ -219,7 +219,7 @@ hr {
 }
 
 #circle-cover-bg {
-  background: url(/images/Round01.jpg) no-repeat center center;
+  background: url("../images/Round01.jpg") no-repeat center center;
   height: 100%;
   border-radius: 50%;
 }
@@ -234,7 +234,7 @@ hr {
 
 /*events times section*/
 #times {
-  background-image: url(/images/riverlondon.jpg);
+  background-image: url("../images/riverlondon.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -408,7 +408,7 @@ footer {
 
 .form-section {
   clear: left;
-  background: url(/images/signuplondon.jpg);
+  background: url("../images/signuplondon.jpg");
   background-size: cover;
   background-position: center;
   height: 900px;
