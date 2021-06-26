@@ -409,12 +409,12 @@ footer {
   }
 
 
-  
+
 }
 
 /*small screen format*/
 @media screen and (max-width:800px) {
-  
+
   #menu {
     clear: left;
     float: left;
@@ -423,6 +423,16 @@ footer {
     line-height: 25px;
   }
 
+  #cover-text {
+    font-size: 100%;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+    letter-spacing: 4px;
+  }
+
+  #welcome {
+    font-size: 200%;
+  }
 
   #photo {
     column-count: 2;
@@ -449,7 +459,18 @@ footer {
     line-height: 25px;
     font-size: 80%;
   }
-  
+
+  #cover-text {
+    font-size: 80%;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+    letter-spacing: 4px;
+  }
+
+  #welcome {
+    font-size: 100%;
+  }
+
   #photo {
     column-count: 1;
   }
