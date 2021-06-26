@@ -414,6 +414,16 @@ footer {
 
 /*small screen format*/
 @media screen and (max-width:800px) {
+  
+  #menu {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+  }
+
+
   #photo {
     column-count: 2;
   }
@@ -431,6 +441,14 @@ footer {
 
 /*mobile phone screen format*/
 @media screen and (max-width:500px) {
+  #menu {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+  }
+  
   #photo {
     column-count: 1;
   }
