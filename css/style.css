@@ -297,8 +297,9 @@ footer {
   column-gap: 10;
 }
 
-#photo figure{
-margin-bottom: 15px;
+#photo figure {
+  margin-bottom: 15px;
+  break-inside: avoid;
 }
 
 #photo img {
@@ -306,9 +307,9 @@ margin-bottom: 15px;
   border: 5px solid #ffffff;
 }
 
-#photo figcaption{
+#photo figcaption {
   text-align: center;
-  }
+}
 
 /*large screen format*/
 @media screen and (max-width: 1200px) {
@@ -406,11 +407,20 @@ margin-bottom: 15px;
 }
 
 /*small screen format*/
-@media screen and (mad-width:800px) {
+@media screen and (max-width:800px) {
   #photo {
     column-count: 2;
   }
 }
+
+/*mobile phone screen format*/
+@media screen and (max-width:500px) {
+  #photo {
+    column-count: 1;
+  }
+}
+
+
 
 /* Form page*/
 
