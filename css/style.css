@@ -545,6 +545,12 @@ footer {
 /*small screen format*/
 @media screen and (max-width:380px) {
 
+  #club-ethos {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
+  }
+
   #cover-text {
     font-size: 60%;
     font-family: 'Open Sans';
@@ -555,7 +561,24 @@ footer {
 
   .signup-form {
     width: auto;
-    position:static;
+    position: static;
   }
 
+  .rounded-circle {
+    display: block;
+    margin-bottom: 10px;
+
+  }
+
+  .left-about-heading h2 {
+    font-size: 80%;
+  }
+
+  blockquote {
+    font-size: 100%;
+  }
+
+  #circle-container{
+    font-size: 100%;
+  }
 }
