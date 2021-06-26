@@ -315,7 +315,7 @@ footer {
 @media screen and (max-width: 1200px) {
   #club-ethos {
     width: 65%;
-    height: 1200px;
+    height: 1800px;
     margin: 0 auto;
   }
 
@@ -374,7 +374,7 @@ footer {
 
   #club-ethos {
     width: 90%;
-    height: 1200px;
+    height: 1500px;
     margin: 0 auto;
   }
 
@@ -404,6 +404,12 @@ footer {
     column-count: 3;
   }
 
+  #galleryText {
+    font-size: 180%;
+  }
+
+
+  
 }
 
 /*small screen format*/
@@ -411,12 +417,32 @@ footer {
   #photo {
     column-count: 2;
   }
+
+  #galleryText {
+    font-size: 150%;
+  }
+
+  #club-ethos {
+    width: 90%;
+    height: 1600px;
+    margin: 0 auto;
+  }
 }
 
 /*mobile phone screen format*/
 @media screen and (max-width:500px) {
   #photo {
     column-count: 1;
+  }
+
+  #galleryText {
+    font-size: 120%;
+  }
+
+  #club-ethos {
+    width: 90%;
+    height: 1800px;
+    margin: 0 auto;
   }
 }
 
