@@ -487,7 +487,6 @@ footer {
 }
 
 
-
 /* Form page*/
 
 .form-section {
@@ -541,4 +540,22 @@ footer {
 .join-button:hover {
   background-color: #fafafa;
   color: #f16c6b;
+}
+
+/*small screen format*/
+@media screen and (max-width:380px) {
+
+  #cover-text {
+    font-size: 60%;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: auto;
+  }
+
+  .signup-form {
+    width: auto;
+    position:static;
+  }
+
 }
