@@ -292,15 +292,23 @@ footer {
 
 #photo {
   clear: both;
-  line-height: 5;
+  line-height: 1;
   column-count: 3;
   column-gap: 10;
+}
+
+#photo figure{
+margin-bottom: 15px;
 }
 
 #photo img {
   width: 100%;
   border: 5px solid #ffffff;
 }
+
+#photo figcaption{
+  text-align: center;
+  }
 
 /*large screen format*/
 @media screen and (max-width: 1200px) {
