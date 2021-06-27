@@ -66,3 +66,17 @@ The form on _Subscribe_! page is located on top of a hero image within a #0DFFD 
 Fig 1 shows a visual representation of _London Wanderers’_ mood board.
 
 ![Moodboard](readmemd/moodboard.png)
+
+### Initial Site Map
+
+The website consists of three pages _Home_, _Gallery_ and _Subscribe!_
+
+_Home_ page provides a brief introduction together with different walk categories. 
+
+_Gallery_ displays a selection of photos from different London Wanderers’ walks.
+
+_Subscribe!_ contains a subscription form to email updates.
+
+Fig 2 shows the initial site map including types of content on each page.
+
+![Initial site map](readmemd/sitemap_initial.png)
