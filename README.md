@@ -151,17 +151,20 @@ The website became not readable and hard to use on very small screens. The eleme
 ## Evaluation
 
 _Appraisal:_
+
 The submitted website meets the objectives of:
 1.	Presenting public introduction to the travel blog.
 1.	Providing a channel to attract audience and viewership.
 1.	Established a public platform to share content.
 
 _Limitations:_
+
 The submitted website has:
 1.	Limited content availability.
 1.	Static website structure.
 
 _Recommendations:_
+
 Possible future additions to the website include:
 1.	Inclusion of other media format (e.g. videos).
 1.	Additional interaction attributes (e.g. comments and feedback sections).
