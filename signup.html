@@ -1,81 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>London Wanderers</title>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>London Wanderers</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />  
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
-<body class="bg-color-main">
-    <header>
-        <a href="index.html">
-            <h2 id="logo">London Wanderers</h2>
-        </a>
-        <nav>
-            <ul id="menu">
-                <li>
-                    <a class="active" href="signup.html">Subscribe!</a>
-                </li>
-                <li>
-                    <a href="gallery.html">Gallery</a>
-                </li>
+<body class="bg-color-main">  
+  <header>
+    <a href="index.html">
+      <h2 id="logo">London Wanderers</h2>
+    </a>
+      
+    <nav>
+      <ul id="menu">
+        <li>
+          <a class="active" href="signup.html">Subscribe!</a>
+        </li>
+        <li>
+          <a href="gallery.html">Gallery</a>
+        </li>
+        <li>
+          <a href="index.html">Home</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+    
+  <section class="form-section">
+    <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+      <h2>Let's get you walking!</h2>
+      <label for="fname">First Name</label>
+      <input type="text" id="fname" name="first_name" class="text-input" required />
+        
+      <label for="lname">Last Name</label>
+      <input type="text" id="lname" name="last_name" class="text-input" required />
+        
+      <label for="email">Email Address</label>
+      <input id="email" type="email" name="email_address" class="text-input" required />
 
-                <li>
-                    <a href="index.html">Home</a>
-                </li>
-            </ul>
-        </nav>
-    </header>
-    <section class="form-section">
-        <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
-            <h2>Let's get you walking!</h2>
-            <label for="fname">First Name</label>
-            <input type="text" id="fname" name="first_name" class="text-input" required />
-            <label for="lname">Last Name</label>
-            <input type="text" id="lname" name="last_name" class="text-input" required />
-            <label for="email">Email Address</label>
-            <input id="email" type="email" name="email_address" class="text-input" required />
+      <div>
+        <input id="culture" type="checkbox" name="walks_preference1" value="culture" />
+        <label for="culture">Culture</label>
+      </div>
 
-            <div>
-                <input id="culture" type="checkbox" name="walks_preference1" value="culture" />
-                <label for="culture">Culture</label>
-            </div>
+      <div>
+        <input id="green_spaces" type="checkbox" name="walks_preference2" value="green_spaces" />
+        <label for="green_spaces">Green Spaces</label>
+      </div>
 
-            <div>
-                <input id="green_spaces" type="checkbox" name="walks_preference2" value="green_spaces" />
-                <label for="green_spaces">Green Spaces</label>
-            </div>
+      <div>
+        <input id="history" type="checkbox" name="walks_preference3" value="history" />
+        <label for="history">History</label>
+      </div>
 
-            <div>
-                <input id="history" type="checkbox" name="walks_preference3" value="history" />
-                <label for="history">History</label>
-            </div>
+      <div>
+        <input id="river_thames" type="checkbox" name="walks_preference4" value="river_thames" />
+        <label for="river_thames">River Thames</label>
+      </div>
 
-            <div>
-                <input id="river_thames" type="checkbox" name="walks_preference4" value="river_thames" />
-                <label for="river_thames">River Thames</label>
-            </div>
+      <div>
+        <input id="food" type="checkbox" name="walks_preference5" value="food" />
+        <label for="food">Food</label>
+      </div>
 
-            <div>
-                <input id="food" type="checkbox" name="walks_preference5" value="food" />
-                <label for="food">Food</label>
-            </div>
-
-            <input type="submit" value="Let's get our shoes on!" class="join-button" />
-        </form>
-    </section>
-    <footer>
-        <ul class="social-networks">
-            <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
-            <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
-            <li><a href="https://www.youtube.com/c/AWalkWithUs" target="_blank"><i class="fab fa-youtube"></i></a></li>
-            <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
-        </ul>
-    </footer>
+      <input type="submit" value="Let's get our shoes on!" class="join-button" />
+    </form>
+  </section>
+  <footer>
+    <ul class="social-networks">
+      <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+      <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+      <li><a href="https://www.youtube.com/c/AWalkWithUs" target="_blank"><i class="fab fa-youtube"></i></a></li>
+      <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+      </ul>
+  </footer>
 </body>
-
 </html>
