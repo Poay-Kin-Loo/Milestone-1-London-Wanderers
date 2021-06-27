@@ -9,4 +9,5 @@ _London Wanderers_ is a local travel blog focusing on urban walks in and around 
 * History
 * River Thames
 * Food & Cuisine
+
 The goal of _London Wanderers_ is to encourage visitors to learn about interesting spots in London and explore them on their own. Visitors can sign-up to a newsletter that will deliver latest walks to their inbox.
