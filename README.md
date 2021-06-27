@@ -94,3 +94,9 @@ A proposed storyboard for _Gallery_ page:
 A proposed storyboard for _Subscribe!_ page:
 
 ![Subscribe! page storyboard](readmemd/storyboard_signup.png)
+
+### Final Navigation Map
+
+The navigation map includes three pages with Home page being the main page. The structure is fairly flat with no sub-pages.
+
+![Navigation map](readmemd/nav_map.PNG)
