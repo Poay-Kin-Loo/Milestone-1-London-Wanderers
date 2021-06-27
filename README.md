@@ -116,3 +116,13 @@ The navigation map includes three pages with Home page being the main page. The 
 ### Images
 All images were provided by the website owner. They were taken during _London Wanderers_ walks and feature interesting places across London.
 
+## Test Plan
+### HTML & CSS Validation
+Website HTML and CSS code were successfully validated using [W3C Markup Validation Service](https://validator.w3.org/) and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). Figs 7 – 10 show the validation reports.
+
+![HTML validation report for Home page](readmemd/html_validation_index.PNG)
+![HTML validation report for Gallery page](readmemd/html_validation_gallery.PNG)
+![HTML validation report for Subscribe! page](readmemd/html_validation_signup.PNG)
+![CSS validation report](readmemd/css_validation.PNG)
+
+
