@@ -207,12 +207,6 @@ hr {
   padding: 10% 0;
 }
 
-#circle-cover-bg {
-  background: url("../images/Round01.jpg") no-repeat center center;
-  height: 100%;
-  border-radius: 50%;
-}
-
 .rounded-circle {
   border-style: solid;
   border-color: #ffffff;
