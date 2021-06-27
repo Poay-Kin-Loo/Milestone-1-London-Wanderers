@@ -221,8 +221,8 @@ hr {
   margin: 0 auto;
 }
 
-/*events times section*/
-#times {
+/*walk categories section*/
+#categories {
   background-image: url("../images/riverlondon.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -231,7 +231,7 @@ hr {
   overflow: hidden;
 }
 
-#times div {
+#categories div {
   color: #fafafa;
   background-color: rgba(29, 116, 29, 0.63);
   width: 20%;
@@ -244,7 +244,7 @@ hr {
   border-radius: 15% 5%;
 }
 
-#times h2 {
+#categories h2 {
   color: #fafafa;
   margin-bottom: 15px;
 }
@@ -325,7 +325,7 @@ footer {
     padding: 0;
   }
 
-  #times div {
+  #categories div {
     width: 100%;
     clear: both;
     height: 150px;
