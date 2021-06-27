@@ -194,7 +194,7 @@ hr {
   font-size: 280%;
 }
 
-#circle-container {
+#intro-container {
   width: 300px;
   height: 300px;
   padding: 30px;
@@ -203,7 +203,7 @@ hr {
   text-align: center;
 }
 
-#circle-container p {
+#intro-container p {
   padding: 10% 0;
 }
 
@@ -469,7 +469,6 @@ footer {
   }
 }
 
-
 /* Form page*/
 .form-section {
   clear: left;
@@ -559,7 +558,7 @@ footer {
     font-size: 100%;
   }
 
-  #circle-container{
+  #intro-container{
     font-size: 100%;
   }
 }
