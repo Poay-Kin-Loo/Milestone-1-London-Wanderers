@@ -170,3 +170,32 @@ Possible future additions to the website include:
 1.	Additional interaction attributes (e.g. comments and feedback sections).
 1.	More forms of content (e.g. blog posts and recommendations section).
 
+## Appendices
+### Screen Dumps
+![Home page screenshot](readmemd/screenshot_home.PNG)
+![Gallery page screenshot](readmemd/screenshot_gallery.PNG)
+![Subscribe! page screenshot](readmemd/screenshot_signup.PNG)
+
+### Website Assets
+The website can be viewed online at [https://poay-kin-loo.github.io/Milestone-1-London-Wanderers/](https://poay-kin-loo.github.io/Milestone-1-London-Wanderers/)
+The website assets include:
+* Milestone-1-London-Wanderers/css/style.css
+* Milestone-1-London-Wanderers/images/Round01.jpg
+* Milestone-1-London-Wanderers/images/Round02.jpg
+* Milestone-1-London-Wanderers/images/Round03.jpg
+* Milestone-1-London-Wanderers/images/Round04.jpg
+* Milestone-1-London-Wanderers/images/image01.jpg
+* Milestone-1-London-Wanderers/images/image02.jpg
+* Milestone-1-London-Wanderers/images/image03.jpg
+* Milestone-1-London-Wanderers/images/image04.jpg
+* Milestone-1-London-Wanderers/images/image05.jpg
+* Milestone-1-London-Wanderers/images/image06.jpg
+* Milestone-1-London-Wanderers/images/image07.jpg
+* Milestone-1-London-Wanderers/images/image08.jpg
+* Milestone-1-London-Wanderers/images/image09.jpg
+* Milestone-1-London-Wanderers/images/image10.jpg
+* Milestone-1-London-Wanderers/images/image11.jpg
+* Milestone-1-London-Wanderers/images/image12.jpg
+* Milestone-1-London-Wanderers/images/main1.jpg
+* Milestone-1-London-Wanderers/images/riverlondon.jpg
+* Milestone-1-London-Wanderers/images/signuplondon.jpg
