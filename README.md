@@ -34,3 +34,33 @@ As a site owner:
 * I want to have a gallery to easily display photos taken during our walks
 * I want to feature links to our social media profiles (Youtube, Instagram, Facebook)
 * I want to have a contact form so that the visitors can get in touch with me
+
+## Design
+
+### Mood boards
+Font-family is [Open Sans](https://fonts.google.com/specimen/Open+Sans) with the basic text colour set to #777777.  Font colour changes only for a handful of elements:
+* #FFFFFF - hero image cover text
+* #FAFAFA - walk categories
+* #FFFFFF - sign-up form
+
+The basic colours are #FFEBB9 (background colour) and #777777 (basic text colour). Additionally the following colours are used:
+* #555555 – welcome header on _Home_ page
+* #FFFFFFF – hero image cover text and image border
+* #0DFFD – hero image cover text background on _Home_ and _Subscribe!_ page
+* #F16C6b – sign up form button and links in text
+* #FAFAFA – walk categories text on _Home_ page
+* #1D741D – walk categories background colour
+
+Icons are sourced from [Font-Awesome](https://fontawesome.com/v5.15/icons?d=gallery) and use #777777 as their basic colour. For walk categories section on _Home_ page colour is changed to #FAFAFA.
+
+Highlights/benefits of walking on _Home_ page are decorated with a photo with 3px rounded #FFFFFF border.  They use two font sizes – bigger one to attract attention and smaller one to provide more information.
+
+Quotes displayed on _Home_ page follow the default font settings but the font style is italic. They also use some [Font-Awesome](https://fontawesome.com/v5.15/icons?d=gallery) icons for decoration.
+
+Walk categories section on Home page consists of five #1D741D semi-transparent boxes with #FAFAFA text and [Font-Awesome](https://fontawesome.com/v5.15/icons?d=gallery) icons for decoration. The background for the whole section is an image.
+
+Photos displayed on _Gallery_ page have a caption and a 5px solid #FFFFFF border. 
+
+The form on _Subscribe_! page is located on top of a hero image within a #0DFFD semi-transparent box.
+
+Fig 1 shows a visual representation of _London Wanderers’_ mood board.
