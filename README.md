@@ -125,4 +125,45 @@ Website HTML and CSS code were successfully validated using [W3C Markup Validati
 ![HTML validation report for Subscribe! page](readmemd/html_validation_signup.PNG)
 ![CSS validation report](readmemd/css_validation.PNG)
 
+### Functionality Testing
+Basic functionality testing was done on Windows 10 using Chrome Web-browser. All test cases passed and the summary is available below:
+
+![Functionality testing summary](readmemd/functionality_test_1.PNG)
+
+### Responsiveness Testing
+Responsiveness testing was done using Chrome Web-browser on:
+* A Samsung Galaxy S7 mobile phone (Android 8.0.0) – screen size up to 380px
+* A Samsung Galaxy Tab E 9.6 tablet (Android 7.1.2) – screen size up to 800px
+* Asus N56V laptop (Windows 10) – screen size up to 1920px
+
+![Responsiveness testing summary](readmemd/responsiveness_test_1.PNG)
+
+## Bugs
+### Images Not Found
+During the testing process there was a problem with images being not found. After closer look, it turn out there was a typo in the pathname. The issue was fixed by correcting the path.
+### Missing Social Media Icons On Gallery Page
+During the development process the social media icons were displayed correctly on all pages except of gallery page. The issue was caused by the missing Font-Awesome script. Once it was added to <head> section of the page, the icons were correctly displayed.
+### Figure Tag Breaking On Smaller Screens
+When testing _Gallery_ page for smaller screens, figure tag would get split between two columns with img being shown at the bottom of one column and figcaption at the top of the next one. The issue was fixed by applying _break-inside:avoid_ to figure tag.
+### Website Not Readable On Mobile Phones
+The website became not readable and hard to use on very small screens. The elements would overlap, half of the form was not visible, images too small and text was too big. To resolve this the CSS file was updated with a style of screen resolutions with max width of 380px.
+
+## Evaluation
+
+_Appraisal:_
+The submitted website meets the objectives of:
+1.	Presenting public introduction to the travel blog.
+1.	Providing a channel to attract audience and viewership.
+1.	Established a public platform to share content.
+
+_Limitations:_
+The submitted website has:
+1.	Limited content availability.
+1.	Static website structure.
+
+_Recommendations:_
+Possible future additions to the website include:
+1.	Inclusion of other media format (e.g. videos).
+1.	Additional interaction attributes (e.g. comments and feedback sections).
+1.	More forms of content (e.g. blog posts and recommendations section).
 
