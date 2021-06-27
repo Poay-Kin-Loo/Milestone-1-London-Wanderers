@@ -80,3 +80,17 @@ _Subscribe!_ contains a subscription form to email updates.
 Fig 2 shows the initial site map including types of content on each page.
 
 ![Initial site map](readmemd/sitemap_initial.png)
+
+### Storyboards
+
+A proposed storyboard for _Home_ page:
+
+![Home page storyboard](readmemd/storyboard_index.png)
+
+A proposed storyboard for _Gallery_ page:
+
+![Gallery page storyboard](readmemd/storyboard_gallery.png)
+
+A proposed storyboard for _Subscribe!_ page:
+
+![Subscribe! page storyboard](readmemd/storyboard_signup.png)
