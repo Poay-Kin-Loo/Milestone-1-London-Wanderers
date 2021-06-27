@@ -172,12 +172,13 @@ Possible future additions to the website include:
 
 ## Appendices
 ### Screen Dumps
-![Home page screenshot](readmemd/screenshot_home.PNG)
-![Gallery page screenshot](readmemd/screenshot_gallery.PNG)
-![Subscribe! page screenshot](readmemd/screenshot_signup.PNG)
+![Home page screenshot](readmemd/screenshot_home.png)
+![Gallery page screenshot](readmemd/screenshot_gallery.png)
+![Subscribe! page screenshot](readmemd/screenshot_signup.png)
 
 ### Website Assets
 The website can be viewed online at [https://poay-kin-loo.github.io/Milestone-1-London-Wanderers/](https://poay-kin-loo.github.io/Milestone-1-London-Wanderers/)
+
 The website assets include:
 * Milestone-1-London-Wanderers/css/style.css
 * Milestone-1-London-Wanderers/images/Round01.jpg
