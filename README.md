@@ -100,3 +100,19 @@ A proposed storyboard for _Subscribe!_ page:
 The navigation map includes three pages with Home page being the main page. The structure is fairly flat with no sub-pages.
 
 ![Navigation map](readmemd/nav_map.PNG)
+
+## Implementation
+### Technologies
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) – a mark-up language used to define the meaning and structure of the website
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) – a stylesheet language used to style the website
+### Tools
+* [VS Code](https://code.visualstudio.com/) – a source code editor used to code the website
+* [Github](https://github.com/) – a version control system used to store the website’s source code
+* [Gitpod](https://www.gitpod.io/) – a container-based development platform used to run the dev environment
+* [W3C Markup Validation Service](https://validator.w3.org/) – a mark-up validator used to check validity of HTML code
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) – a stylesheet validator used to check validity of CSS code
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/) – a set of dev tools used to test site’s responsiveness and identify bugs
+* [Font-Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2) – a font and icon toolkit used to source the icons
+### Images
+All images were provided by the website owner. They were taken during _London Wanderers_ walks and feature interesting places across London.
+
