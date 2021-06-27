@@ -64,3 +64,5 @@ Photos displayed on _Gallery_ page have a caption and a 5px solid #FFFFFF border
 The form on _Subscribe_! page is located on top of a hero image within a #0DFFD semi-transparent box.
 
 Fig 1 shows a visual representation of _London Wanderers’_ mood board.
+
+![Moodboard](readmemd/moodboard.png)
